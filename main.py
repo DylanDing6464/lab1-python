@@ -10,7 +10,7 @@ if(unit == "c" or unit == "C"):
 	
 elif(unit == "f" or unit == "F"):
 	celsiusDegree = (temperature-32)*5/9 
-	print (f"{temperature}° in Fahreheit is equivalent to {celsiusDegree}° Celsius.")
+	print (f"{temperature}° in Fahrenheit is equivalent to {celsiusDegree}° Celsius.")
 
 else:
 	print (f"Invalid unit({unit}).")

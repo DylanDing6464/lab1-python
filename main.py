@@ -1,5 +1,5 @@
 temperature = input('Enter temperature: ')
-unit = input('Enter unit in ')
+unit = input('Enter unit in F/f or C/c: ')
 
 temperature = float(temperature)
 
